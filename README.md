@@ -1,14 +1,15 @@
-# Calculator
+# Calculator Web Application
 
 ## Project Preview
 https://liubovua.github.io/calculator/
 
-## HTML:
-<div id="calc-wrap">
-    <div id="calc">
-        <textarea id=inputVal>0</textarea>
-    </div>
-</div>
+This is a simple calculator web application built with HTML, CSS, and JavaScript. It provides basic arithmetic operations and some advanced functions like square, cube, and square root.
+
+## Features
+Basic arithmetic operations: addition, subtraction, multiplication, and division.
+Advanced operations: square, cube, and square root.
+Clear (AC) button to reset the input.
+
 
 ## JS:
 1. Event window.onload - The code will start executing after the page has loaded.
